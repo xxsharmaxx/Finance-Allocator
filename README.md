@@ -78,7 +78,7 @@ If everything is set up correctly, you’ll see the Expense Report and visualiza
 🧮 Algorithm (DAA Concept)
 
 This project uses the Divide and Conquer paradigm for calculating total expenses recursively.
-
+####
 def total_expense(amounts):
     if len(amounts) == 0:
         return 0
