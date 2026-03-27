@@ -93,4 +93,6 @@ def total_expense(amounts):
 Time Complexity: O(n)
 Paradigm: Divide and Conquer
 
+learning github Achievements
+
 
